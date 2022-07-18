@@ -1,1 +1,1 @@
-# js-basic-project-
+# js-basic-projects

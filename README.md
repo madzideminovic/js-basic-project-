@@ -1,1 +1,1 @@
-# js-basic-projects
+This is my folder of basic JavaScript projects. I don't use advanced HTML and CSS in projects because the accent was on JavaScript. I used advanced HTML and CSS on my other projects. Now I will tell you something about this project.

@@ -4,8 +4,8 @@
     "version": "1.0",
     "manifest_version": 3,
     "icons": {
-        "16": "icons/icon26.png",
+        "16": "icons/icon16.png",
         "48": "icons/icon48.png",
-        "128": "icons/icon48.png"
+        "128": "icons/icon128.png"
     }
 }
